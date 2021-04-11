@@ -1,0 +1,11 @@
+C:\Users\Olga\Desktop\SeleniumTests\parrotSiteTests\bin\Debug\parrotSiteTests.dll
+C:\Users\Olga\Desktop\SeleniumTests\parrotSiteTests\bin\Debug\parrotSiteTests.pdb
+C:\Users\Olga\Desktop\SeleniumTests\parrotSiteTests\bin\Debug\nunit.framework.dll
+C:\Users\Olga\Desktop\SeleniumTests\parrotSiteTests\bin\Debug\WebDriver.dll
+C:\Users\Olga\Desktop\SeleniumTests\parrotSiteTests\bin\Debug\nunit.framework.xml
+C:\Users\Olga\Desktop\SeleniumTests\parrotSiteTests\bin\Debug\WebDriver.xml
+C:\Users\Olga\Desktop\SeleniumTests\parrotSiteTests\obj\Debug\parrotSiteTests.csprojAssemblyReference.cache
+C:\Users\Olga\Desktop\SeleniumTests\parrotSiteTests\obj\Debug\parrotSiteTests.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Desktop\SeleniumTests\parrotSiteTests\obj\Debug\parrotSiteTests.csproj.CopyComplete
+C:\Users\Olga\Desktop\SeleniumTests\parrotSiteTests\obj\Debug\parrotSiteTests.dll
+C:\Users\Olga\Desktop\SeleniumTests\parrotSiteTests\obj\Debug\parrotSiteTests.pdb
