@@ -9,3 +9,20 @@ C:\Users\Olga\Desktop\SeleniumTests\parrotSiteTests\obj\Debug\parrotSiteTests.cs
 C:\Users\Olga\Desktop\SeleniumTests\parrotSiteTests\obj\Debug\parrotSiteTests.csproj.CopyComplete
 C:\Users\Olga\Desktop\SeleniumTests\parrotSiteTests\obj\Debug\parrotSiteTests.dll
 C:\Users\Olga\Desktop\SeleniumTests\parrotSiteTests\obj\Debug\parrotSiteTests.pdb
+C:\Users\Olga\Desktop\2 курс\SeleniumTests\parrotSiteTests\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Olga\Desktop\2 курс\SeleniumTests\parrotSiteTests\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Olga\Desktop\2 курс\SeleniumTests\parrotSiteTests\bin\Debug\nunit.engine.dll
+C:\Users\Olga\Desktop\2 курс\SeleniumTests\parrotSiteTests\bin\Debug\nunit.engine.api.dll
+C:\Users\Olga\Desktop\2 курс\SeleniumTests\parrotSiteTests\bin\Debug\nunit.engine.core.dll
+C:\Users\Olga\Desktop\2 курс\SeleniumTests\parrotSiteTests\bin\Debug\chromedriver.exe
+C:\Users\Olga\Desktop\2 курс\SeleniumTests\parrotSiteTests\bin\Debug\parrotSiteTests.dll
+C:\Users\Olga\Desktop\2 курс\SeleniumTests\parrotSiteTests\bin\Debug\parrotSiteTests.pdb
+C:\Users\Olga\Desktop\2 курс\SeleniumTests\parrotSiteTests\bin\Debug\nunit.framework.dll
+C:\Users\Olga\Desktop\2 курс\SeleniumTests\parrotSiteTests\bin\Debug\WebDriver.dll
+C:\Users\Olga\Desktop\2 курс\SeleniumTests\parrotSiteTests\bin\Debug\nunit.framework.xml
+C:\Users\Olga\Desktop\2 курс\SeleniumTests\parrotSiteTests\bin\Debug\WebDriver.xml
+C:\Users\Olga\Desktop\2 курс\SeleniumTests\parrotSiteTests\obj\Debug\parrotSiteTests.csprojAssemblyReference.cache
+C:\Users\Olga\Desktop\2 курс\SeleniumTests\parrotSiteTests\obj\Debug\parrotSiteTests.csproj.CoreCompileInputs.cache
+C:\Users\Olga\Desktop\2 курс\SeleniumTests\parrotSiteTests\obj\Debug\parrotSiteTests.csproj.CopyComplete
+C:\Users\Olga\Desktop\2 курс\SeleniumTests\parrotSiteTests\obj\Debug\parrotSiteTests.dll
+C:\Users\Olga\Desktop\2 курс\SeleniumTests\parrotSiteTests\obj\Debug\parrotSiteTests.pdb
